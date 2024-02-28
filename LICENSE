@@ -1,24 +1,41 @@
-This is free and unencumbered software released into the public domain.
+# License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+## Quantum AI Trading License
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This license agreement (the "License") is entered into as of February 13, 2024 (the "Effective Date") between Quantum AI Trading Inc. (the "Licensor") and the user (the "Licensee").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+### Grant of License
 
-For more information, please refer to <https://unlicense.org>
+Subject to the terms and conditions of this License, Licensor grants Licensee a non-exclusive, worldwide, royalty-free, perpetual license to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software and associated documentation files (the "Software").
+
+### Restrictions
+
+Licensee shall not sublicense, sell, rent, lease, or otherwise transfer the Software or any portion thereof. Licensee shall not remove or alter any copyright, trademark, or other proprietary rights notices contained in the Software.
+
+### Limited Warranty
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+### Limitation of Liability
+
+In no event shall Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+### Indemnification
+
+Licensee agrees to indemnify, defend, and hold harmless Licensor, its officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, or expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with Licensee's use of the Software.
+
+### Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions.
+
+### Entire Agreement
+
+This License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether oral or written.
+
+### Acceptance
+
+By using the Software, Licensee agrees to be bound by the terms and conditions of this License.
+
+## Contact Information
+
+If you have any questions about this License, please contact us at support@quantumaitrading.com.
